@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<head>
-  <title>Resume</title>
-</head>
+
 
 <header>
   <h1>Felipe Vargas</h1>
